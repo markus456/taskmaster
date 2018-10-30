@@ -1,0 +1,16 @@
+{
+  "name": "taskmaster",
+  "version": "1.0.0",
+  "description": "Simple time tracking utility",
+  "main": "index.js",
+  "repository": "https://github.com/markus456/taskmaster",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Markus Mäkelä",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.6"
+  }
+}
