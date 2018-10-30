@@ -2,6 +2,8 @@
 
 Simple time tracking tool
 
+![screenshot](./screenshot.png)
+
 ## Installation & Usage
 
 ```
