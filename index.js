@@ -2,7 +2,7 @@ const { app, BrowserWindow, Menu, MenuItem } = require('electron')
   
 function createWindow () {
     // Create the browser window.
-    win = new BrowserWindow({ width: 600, height: 400, icon: __dirname + '/contents/img/activity.png',
+    win = new BrowserWindow({ width: 600, height: 400, icon: __dirname + '/contents/img/icon.png',
                               backgroundColor: '#FFEFD5', title: 'Taskmaster' })
     
     // and load the index.html of the app.
